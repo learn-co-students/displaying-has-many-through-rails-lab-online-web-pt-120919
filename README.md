@@ -13,7 +13,7 @@ The poor doctors at Seattle Grace Hospital are so overworked that they're having
 
 ![greys-anatomy](http://57.media.tumblr.com/cbcd8f29790e720e4cea60f44cb2c6b9/tumblr_mrbut3kX1g1r6kab2o1_500.gif)
 
-## Instructions
+## Instructions 
 
 First, fork and clone this lab.
 
