@@ -1,0 +1,12 @@
+#Goal
+#list all patients and the number of appointments they have
+#how do i accomplish that ?
+#so all patients is the instance var @patients 
+#iterate over that list the names along with .appointment.length or something of that sort
+<h1> patients </h1>
+<ul>
+<% @patients.each do |patient| %>
+    <li>Name: <%= patient.name %></li>
+    <li>Number of Appointments: <%= patient.appointments.length %> </li>
+    <% end %>
+ </ul>
